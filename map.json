@@ -387,7 +387,7 @@
         {
          "columns":8,
          "firstgid":2683,
-         "image":"..\/..\/tmp\/indoor.png",
+         "image":"indoor.png",
          "imageheight":544,
          "imagewidth":256,
          "margin":0,
@@ -400,7 +400,7 @@
         {
          "columns":10,
          "firstgid":2819,
-         "image":"..\/..\/tmp\/Outdoor.png",
+         "image":"Outdoor.png",
          "imageheight":1120,
          "imagewidth":320,
          "margin":0,
